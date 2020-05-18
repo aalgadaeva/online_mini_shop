@@ -1,2 +1,4 @@
 Django
 Pillow
+django-phonenumber-field
+phonenumbers
